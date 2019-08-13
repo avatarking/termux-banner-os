@@ -22,7 +22,7 @@ echo  "screenfetch -A "$varscreenfetch> C0w54y.txt
 echo 
 echo
 echo "clear" > cl34r.txt
-cat "cl34r.txt" >> /data/data/com.termux/files/usr/etc/zshrc
-cat "C0w54y.txt" >> /data/data/com.termux/files/usr/etc/zshrc
+cat "cl34r.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
+cat "C0w54y.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
 
 
