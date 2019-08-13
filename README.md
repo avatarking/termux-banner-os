@@ -13,4 +13,8 @@ $ bash requirements.sh
 
 $ bash banner.sh
 
-completed
+
+#Three things written on the banner
+1.Debian
+2.kali
+3.Ubuntu
